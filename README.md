@@ -17,7 +17,7 @@ Once the user signs-up, they are given the ability to-
 :heavy_check_mark: Like/Unlike posts  
 :heavy_check_mark: Comment on posts  
 
-The app follows a minimal design philosophy, by maintaining the color scheme and the material design throughout. This is a responsive website, therefore making it suitable for viewing on a variety of screen sizes. It is best viewed on mobile screens, in a full-screen mode.
+The app follows a minimal design philosophy, by maintaining the color scheme and the material design throughout. This is a responsive website , therefore making it suitable for viewing on a variety of screen sizes. It is best viewed on mobile screens, in a full-screen mode.
 
 In terms of user experience, small enhancements like toast messages and lazy loading of images is also included.
 
